@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Interpolation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABCD0B6-87A2-4F73-895D-BBB6C7EB25E0}|Interpolation\\Interpolation.csproj|d:\\repos\\interpolation\\interpolation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABCD0B6-87A2-4F73-895D-BBB6C7EB25E0}|Interpolation\\Interpolation.csproj|solutionrelative:interpolation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 270,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Interpolation\\Interpolation\\Program.cs",
+              "RelativeDocumentMoniker": "Interpolation\\Program.cs",
+              "ToolTip": "D:\\repos\\Interpolation\\Interpolation\\Program.cs",
+              "RelativeToolTip": "Interpolation\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:33:59.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\repos\Interpolation\Interpolation\bin\Debug\net8.0\Interpolation.exe
+D:\repos\Interpolation\Interpolation\bin\Debug\net8.0\Interpolation.deps.json
+D:\repos\Interpolation\Interpolation\bin\Debug\net8.0\Interpolation.runtimeconfig.json
+D:\repos\Interpolation\Interpolation\bin\Debug\net8.0\Interpolation.dll
+D:\repos\Interpolation\Interpolation\bin\Debug\net8.0\Interpolation.pdb
+D:\repos\Interpolation\Interpolation\obj\Debug\net8.0\Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Interpolation\Interpolation\obj\Debug\net8.0\Interpolation.AssemblyInfoInputs.cache
+D:\repos\Interpolation\Interpolation\obj\Debug\net8.0\Interpolation.AssemblyInfo.cs
+D:\repos\Interpolation\Interpolation\obj\Debug\net8.0\Interpolation.csproj.CoreCompileInputs.cache
+D:\repos\Interpolation\Interpolation\obj\Debug\net8.0\Interpolation.dll
+D:\repos\Interpolation\Interpolation\obj\Debug\net8.0\refint\Interpolation.dll
+D:\repos\Interpolation\Interpolation\obj\Debug\net8.0\Interpolation.pdb
+D:\repos\Interpolation\Interpolation\obj\Debug\net8.0\Interpolation.genruntimeconfig.cache
+D:\repos\Interpolation\Interpolation\obj\Debug\net8.0\ref\Interpolation.dll
